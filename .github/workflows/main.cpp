@@ -8,6 +8,7 @@ int main()
     char32_t Name;
     std::cin >> Name;
     printf("Your name is %s\n", Name);
+    printf("Goodbye!\n");
 
     return 0;
 }
